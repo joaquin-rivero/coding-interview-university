@@ -7,52 +7,8 @@
 > Durante muchos meses he estudiado diariamente de 8 a 12 horas. Esta es mi historia: [Por qué estudié a tiempo completo durante 8 meses para una entrevista con Google.  (Art. Inglés)](https://www.freecodecamp.org/news/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13) 
 >
 > Nota: No necesitarás estudiar tanto como yo. He perdido mucho tiempo en aspectos que yo no necesitaba saber. Más información abajo. Te ayudaré a alcanzar tu meta sin que pierda su preciado tiempo.
-> 
-> Los elementos listados aquí le prepararan bien para una entrevista en cualquier compañía de software, incluyendo a los gigantes: Amazon, Facebook, Google o Microsoft.
 >
 > *¡Mucha suerte!*
-
-<details>
-<summary>Traducciones:</summary>
-
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Português Brasileiro](translations/README-ptbr.md)
-- [Polish](translations/README-pl.md)
-- [繁體中文](translations/README-tw.md)
-- [Japanese (日本語)](translations/README-ja.md)
-- [Russian](translations/README-ru.md)
-- [German](translations/README-de.md)
-- [Bahasa Indonesia](translations/README-id.md)
-- [ខ្មែរ - Khmer](translations/README-kh.md)
-
-</details>
-
-<details>
-<summary>Traducciones en progreso:</summary>
-
-- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
-- [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
-- [French](https://github.com/jwasham/coding-interview-university/issues/89)
-- [Ukrainian](https://github.com/jwasham/coding-interview-university/issues/106)
-- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [Urdu](https://github.com/jwasham/coding-interview-university/issues/519)
-- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
-- [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
-- [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
-
-</details>
-
-<div align="center">
-	<hr />
-    <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
-    </p>
-    <hr />
-</div>
 
 ## ¿Qué es esto?
 
@@ -70,7 +26,6 @@ Esto es para los **nuevos Ingenieros de Software** o aquellos que quieren cambia
 Si tiene varios años de experiencia en el desarrollo de software/web, note que las grandes compañías (como Google, Amazon, Facebook y Microsoft) ven la Ingeniería de Software diferente al Desarrollo de Software/Web, requiriendo del conocimiento de las Ciencias de Computación.
 
 Si desea ser un Ingeniero de Escalabilidad/Seguridad o un Ingeniero de Sistemas, estudie más de la lista opcional (Redes, Seguridad)
-
 
 ---
 
@@ -202,42 +157,10 @@ Cuando comencé este proyecto, no sabía la diferencia entre un stack y un heap,
 
 Es un plan largo, puede que tome unos meses; pero si le resulta familiar mucho de esto, le tomara mucho menos tiempo.
 
-## Como usarlo
-
-Todo lo que aparece abajo es un plan, y debería abordar los elementos en orden de arriba a abajo.
-
-Estoy usando las características especiales de markdown de Github, incluyendo listas de tareas, para comprobar el progreso.
-
-**Cree una nueva rama para que pueda validar elementos como este, solo ponga una x en los corchetes: [x]**
-
-```
-Haga fork a una rama y siga los comandos siguientes
-```
-
-Haga fork del repositorio de Github [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) haciendo click sobre el botón "Fork".
-
-Clónalo en un repositorio local:
-```
-git clone git@github.com:<tu_usuario_de_github_/coding-interview-university.git
-git checkout -b progress
-git remote add jwasham https://github.com/jwasham/coding-interview-university
-git fetch --all
-```
-Marque todas las cajas con una x después de que completa los cambios
-
-```
-git add .
-git commit -m "Marcado con X"
-git rebase jwasham/main
-git push --set-upstream origin progress
-git push --force
-```
-[Más acerca de características de Github para markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
 ## No sienta que no es lo suficientemente listo
 - Los ingenieros de software exitosos son inteligentes, pero muchos tienen la inseguridad de no ser lo suficientemente listos.
-- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- [x] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [ ] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 ## Acerca de los recursos de vídeo
 Algunos videos solo están disponibles inscribiéndose a una clase de Coursera o EdX. Estos son llamados MOOCs. En ocasiones las clases no están en sesión, por lo que tendrá que esperar un par de meses, así que no tiene acceso.
@@ -268,16 +191,7 @@ Puede usar un lenguaje con el que este cómodo para hacer la parte de código pa
 - Java
 - Python
 
-También podría usar estos, pero primero deberá informarse. Puede haber advertencias:
-
-- JavaScript
-- Ruby
-
 Debes sentirte muy cómodo con el lenguaje y ser experto.
-
-Lee más acerca de opciones:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
 
 [Vea recursos de programas aquí](programming-language-resources.md)
 
@@ -334,15 +248,6 @@ Si ha leído alguno de estos, probablemente tenga todos los conocimientos de est
 
 [Recursos adicionales específicos del lenguaje aquí.](programming-language-resources.md)
 
-### C++
-
-No he leído estos dos, pero están altamente calificados y escritos por Sedgewick. Él es asombroso.
-
-- [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
-- [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
-
-Si tiene una mejor recomendación para C++, por favor hágamelo saber. Busco fuentes comprensivas.
-
 ### Java
 
 - [ ] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
@@ -356,15 +261,6 @@ O:
     - Por Goodrich, Tamassia, Goldwasser.
     - Usado como texto opcional en el curso de Informática impartido en UC Berkeley.
     - Vea mi reporte de la versión de Python debajo. Este libro abarca los mismos tópicos.
-
-### Python
-
-- [ ] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
-    - Por Goodrich, Tamassia, Goldwasser.
-    - Amé este libro. Cubre todo y más.
-    - Código Pythonioco.
-    - Mi brillante reporte del libro : https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
-
 
 ### Libros Opcionales
 
